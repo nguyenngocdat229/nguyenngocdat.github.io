@@ -8,7 +8,7 @@ logo: "assets/img/6aeeea24e8fd4023a349e354eefa33ed.gif"
 background: "assets/img/placeholder-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://nguyenngocdat.github.io
+url: https://nguyenngocdat229.github.io
 
 # Jekyll
 permalink: /:title/
